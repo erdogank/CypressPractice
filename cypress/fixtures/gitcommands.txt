@@ -1,0 +1,31 @@
+git version
+
+git config --global user.name "yourName"
+
+git config --global user.email "email@mail.com
+
+git config --list
+
+commit
+push
+update
+fetch
+.gitignore file
+
+To remove folder/directory only from git repository and not from the local try 3 simple steps.
+
+Steps to remove directory
+
+git rm -r --cached FolderName
+git commit -m "Removed folder from repository"
+git push origin master
+
+
+
+
+
+
+
+
+
+
